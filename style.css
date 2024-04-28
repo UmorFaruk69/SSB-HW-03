@@ -1,0 +1,28 @@
+form{
+    font-size: 24px;
+}
+input {
+    padding: 15px;
+    font-size: 18px;
+    width: 500px;
+}
+#male, #female {
+    max-width: 10px;
+}
+span {
+    font-size: 18px;
+}
+input#checkbox {
+    width: 15px;
+}
+.wrapper {
+    width: 30%;
+    margin: 0px auto;
+    background: #ddd;
+    padding: 20px;
+}
+select#select {
+    font-size: 20px;
+    padding: 5px;
+    margin-top: 10px;
+}
